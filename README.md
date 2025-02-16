@@ -17,7 +17,7 @@ I'm Aorta Developer From Indonesia , I'm Cupu In Coding ⚡
 [![telegram](https://img.shields.io/badge/telegram-Aortadev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aortadev)
 
 ## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=your username&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave)
